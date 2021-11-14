@@ -18,6 +18,8 @@ class ItemAdapter(private val context: Context,
         val textView: TextView = view.findViewById(R.id.item_title) // place of text on list item
         val imgView: ImageView = view.findViewById(R.id.item_image) // place of img on list item
 
+
+
     } // end ItemViewHolder :in line on ItemAdapter class
 
 
